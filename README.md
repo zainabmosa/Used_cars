@@ -13,19 +13,27 @@ The analysis focuses on how different vehicle characteristics influence price, i
 
 ## Problem Statement
 
-With 426,880 used car listings across the United States, buyers have many different options with different prices, manufacturing years, mileage, conditions, and vehicle specifications. This makes it difficult to compare similar cars and determine a fair market price, which may lead to poor purchasing decisions.
+With 426,880 used car listings across the United States, buyers have many different options with different prices and specifications. This makes it difficult to understand what affects used car prices and to compare similar cars to determine a fair market price. As a result, buyers may make poor purchasing decisions.
 
 ---
 
 ## Objectives
 
+- How can two cars from the same manufacturer and year have different prices?
+
 - How do used car prices vary across different vehicle conditions?
-- How does the manufacturing year affect vehicle prices?
+
 - How does odometer mileage affect vehicle prices?
+
 - How does vehicle size affect vehicle prices?
-- How do used car prices vary across different manufacturers?
-- How do prices vary between automatic and manual vehicles?
+
 - How do used car prices vary across different vehicle types?
+
+- How does the manufacturing year affect vehicle prices?
+
+- How do used car prices vary across different manufacturers?
+
+- How do prices vary between automatic and manual vehicles?
 
 ---
 
@@ -41,11 +49,8 @@ With 426,880 used car listings across the United States, buyers have many differ
 
 - Python
 - Pandas
-- NumPy
 - Matplotlib
-- Seaborn
 - Jupyter Notebook
-- Streamlit
 
 ---
 
@@ -53,23 +58,30 @@ With 426,880 used car listings across the United States, buyers have many differ
 
 ```
 ├── README.md
-├── Used_Car_EDA.ipynb
-├── used_cars.csv
-├── presentation.pdf
-└── streamlit_app.py
+├── Zainab_Moosa_EDA_Project_Notebook.ipynb
+├── vehicles.csv
+└── Zainab_Moosa_EDA_Project_Presentation.pdf
 ```
 
 ---
 
 ## Key Findings
 
-- Vehicle condition affects used car prices.
-- Newer vehicles generally have higher prices.
-- Lower mileage is associated with higher prices.
-- Vehicle size influences prices, especially full-size vehicles.
-- Used car prices vary across different manufacturers.
-- Automatic vehicles generally have higher prices than manual vehicles.
-- Vehicle type also has an effect on used car prices.
+- Even cars from the same manufacturer and year can have different prices because of factors such as mileage, condition, transmission, and vehicle type.
+
+- Used car prices vary depending on the vehicle condition, and cars in better condition generally have higher prices.
+
+- Odometer mileage has a strong effect on price. Cars with lower mileage generally have higher prices.
+
+- Vehicle size affects price, especially for full-size vehicles, while the other size categories show smaller differences.
+
+- Vehicle type also has a noticeable effect on used car prices.
+
+- Prices show a slight increase for very old vehicles, remain lower for some middle-year models, then increase significantly for newer vehicles. However, prices slightly decrease for the 2022 model year .
+
+- The manufacturer has a strong effect on used car prices.
+
+- Transmission type has some effect on price, but the difference between automatic and manual vehicles is not very large.
 
 ---
 
