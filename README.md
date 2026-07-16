@@ -67,7 +67,8 @@ With 426,880 used car listings across the United States, buyers have many differ
 
 ## Key Findings
 
-- Even cars from the same manufacturer and year can have different prices because of factors such as mileage, condition, transmission, and vehicle type.
+- Even cars from the same manufacturer and year can have different prices because of factors such as mileage, condition, transmission,model,
+ and vehicle type.
 
 - Used car prices vary depending on the vehicle condition, and cars in better condition generally have higher prices.
 
