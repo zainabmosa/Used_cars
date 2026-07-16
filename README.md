@@ -25,7 +25,7 @@ With 426,880 used car listings across the United States, buyers have many differ
 
 - How does odometer mileage affect vehicle prices?
 
-- How does vehicle size affect vehicle prices?
+- How do used car prices vary across different vehicle sizes and models?
 
 - How do used car prices vary across different vehicle types?
 
@@ -73,7 +73,7 @@ With 426,880 used car listings across the United States, buyers have many differ
 
 - Odometer mileage has a strong effect on price. Cars with lower mileage generally have higher prices.
 
-- Vehicle size affects price, especially for full-size vehicles, while the other size categories show smaller differences.
+- Vehicle size and model affect used car prices. Full-size vehicles generally have higher prices, and some vehicle models are more expensive than others.
 
 - Vehicle type also has a noticeable effect on used car prices.
 
@@ -82,6 +82,7 @@ With 426,880 used car listings across the United States, buyers have many differ
 - The manufacturer has a strong effect on used car prices.
 
 - Transmission type has some effect on price, but the difference between automatic and manual vehicles is not very large.
+
 
 ---
 
