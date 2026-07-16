@@ -95,6 +95,6 @@ Several factors influence used car prices. Buyers should compare vehicles based 
 
 **Zainab Mohamed Moosa**
 
-University of Bahrain
+University of Bahrain    |   General Assembly
 
-Mathematics Major | Computer Science Minor
+Mathematics Major        |   Data Scientist
