@@ -57,7 +57,8 @@ With 426,880 used car listings across the United States, buyers have many differ
 ```
 ├── README.md
 ├── Zainab_Moosa_EDA_Project_Notebook.ipynb
-├── [vehicles.csv](https://www.kaggle.com/datasets/austinreese/craigslist-carstrucks-data)
+├── [vehicles.csv]
+https://www.kaggle.com/datasets/austinreese/craigslist-carstrucks-data
 └── Zainab_Moosa_EDA_Project_Presentation.pdf
 ```
 
